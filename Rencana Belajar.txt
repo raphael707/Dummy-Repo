@@ -1,5 +1,7 @@
 RENCANA BELAJAR
 
 - Belajar Algoritma Pemrograman
+  * Alur algorima flowchart
+  * Alur Kerja Pseucode
 - Belajar API
 - Belajar DOM
