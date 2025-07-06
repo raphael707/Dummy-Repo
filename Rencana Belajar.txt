@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+
+- Belajar Algoritma Pemrograman
+- Belajar API
+- Belajar DOM
