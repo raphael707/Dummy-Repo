@@ -5,3 +5,4 @@ RENCANA BELAJAR
   * Alur Kerja Pseucode
 - Belajar API
 - Belajar DOM
+- Belajar Framework JS
