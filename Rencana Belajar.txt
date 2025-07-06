@@ -6,3 +6,4 @@ RENCANA BELAJAR
 - Belajar API
 - Belajar DOM
 - Belajar Framework JS
+  * Belajar React Js 
