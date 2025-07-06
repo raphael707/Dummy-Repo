@@ -4,6 +4,6 @@ RENCANA BELAJAR
   * Alur algorima flowchart
   * Alur Kerja Pseucode
 - Belajar API
-- Belajar DOM
 - Belajar Framework JS
-  * Belajar React Js 
+  * Belajar Angular 
+  * Belajar Express Js
