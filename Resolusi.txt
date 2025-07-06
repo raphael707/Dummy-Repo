@@ -1,5 +1,5 @@
 RESOLUSI
 - Konsisten untuk belajar
-- Membuat project pribadi
 - Belajar Git/GitHub
 - Belajar JavaScript
+- Belajar SQL
